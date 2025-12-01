@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# 環境変数
+.env
+
+# VSCode設定など
+.vscode/
